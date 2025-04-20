@@ -3,7 +3,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ======= ВСТАВЬ СВОЙ ТОКЕН СЮДА =========
-TOKEN = "7896350891:AAEEgo6awLoQ6Php6dOF3tDK1eSH8eVtKVE"
+TOKEN = "7896350891:AAH8GGfse79gyo62NA6dSWphKdMoryWpAfo"
 # =======================================
 
 # Клавиатура
@@ -74,7 +74,6 @@ random_insults = [
     "Пора тебе в цирк — уродов там набирают.",
     "С тобой только на дно идти, дебилушка.",
     "Скатертью дорога, недоёбанный пылесос."
-
 ]
 
 # /start
